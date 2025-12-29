@@ -1,16 +1,13 @@
 $ whoami
-thinh
+thinh — founder @ semoia
 
 
 $ echo $FOCUS
-building AI-powered products
+Building semoia.com — an AI-first product
 
 
 $ ls socials
-GitHub : https://github.com/your-username
-Website : https://trysemoia.com
-Email : hello@trysemoia.com
-
-
-$ status
-Building · Learning · Shipping
+Website   : https://trysemoia.com
+Email     : phannhothinh@gmail.com
+X         : https://x.com/phannhothnh1
+LinkedIn  : https://www.linkedin.com/in/phan-nho-thinh-48703a20a/
