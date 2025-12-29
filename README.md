@@ -1,4 +1,7 @@
-## thinh
-founder @ semoia  
-building semoia.com  
+## $ whoami
+thinh — founder @ semoia
+
+## $ focus
+building semoia.com
+
 phannhothinh@gmail.com
