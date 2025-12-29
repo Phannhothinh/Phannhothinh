@@ -1,7 +1,4 @@
-## $ whoami
-**thinh** — founder @ **semoia**
-
-## $ echo $FOCUS
-> Building **semoia.com** — an AI-first product
-
+## thinh
+founder @ semoia  
+building semoia.com  
 phannhothinh@gmail.com
